@@ -6,6 +6,6 @@ gem "rspec"
 
 # Different stubbing solutions
 gem "webmock"
+#gem 'webmock', '~> 2.0'
 gem "vcr"
 gem "sinatra"
-
